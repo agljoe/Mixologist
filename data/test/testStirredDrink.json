@@ -1,0 +1,37 @@
+{
+    "name" : "Test Drink",
+    "size" : "Small",
+    "iceAmount" : "None",
+    "isMixed" : true,
+    "sweetness" : 0,
+    "strength" : 2,
+    "thickness" : -1,
+    "ingredients" : [
+        {
+            "name" : "Syrup",
+            "sweetness" : 2,
+            "strength" : 0,
+            "thickness" : 2
+        }, 
+        {
+            "name" : "Lemonade",
+            "sweetness" : -2,
+            "strength" : 2,
+            "thickness" : -3
+        },
+        {
+            "name" : "Soda",
+            "sweetness" : 0,
+            "strength" : 0,
+            "thickness" : 0
+        }
+    ],
+    "recipe" : [
+        "Choose small",
+        "Add no ice",
+        "Add syrup",
+        "Add lemonade",
+        "Add soda",
+        "Stir"
+    ]
+}

@@ -1,0 +1,35 @@
+{"menu": [{
+    "size": "Small",
+    "strength": 0,
+    "thickness": 6,
+    "name": "Test",
+    "recipe": [
+        "Add no ice",
+        "Add syrup",
+        "Add syrup",
+        "Add syrup"
+    ],
+    "iceAmount": "None",
+    "sweetness": 6,
+    "ingredients": [
+        {
+            "strength": 0,
+            "thickness": 2,
+            "name": "Syrup",
+            "sweetness": 2
+        },
+        {
+            "strength": 0,
+            "thickness": 2,
+            "name": "Syrup",
+            "sweetness": 2
+        },
+        {
+            "strength": 0,
+            "thickness": 2,
+            "name": "Syrup",
+            "sweetness": 2
+        }
+    ],
+    "isMixed": false
+}]}

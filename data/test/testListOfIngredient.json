@@ -1,0 +1,14 @@
+{"ingredients": [
+    {
+        "strength": 3,
+        "thickness": -1,
+        "name": "i1",
+        "sweetness": 2
+    },
+    {
+        "strength": -2,
+        "thickness": 4,
+        "name": "i2",
+        "sweetness": 3
+    }
+]}

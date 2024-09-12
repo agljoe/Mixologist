@@ -1,0 +1,134 @@
+{
+    "menu" : [
+        {  
+            "name" : "D1",
+            "size" : "Small",
+            "iceAmount" : "None",
+            "isMixed" : false,
+            "sweetness" : 0,
+            "strength" : 2,
+            "thickness" : -1,
+            "ingredients" : [
+                {
+                    "name" : "Syrup",
+                    "sweetness" : 2,
+                    "strength" : 0,
+                    "thickness" : 2
+                }, 
+                {
+                    "name" : "Lemonade",
+                    "sweetness" : -2,
+                    "strength" : 2,
+                    "thickness" : -3
+                },
+                {
+                    "name" : "Soda",
+                    "sweetness" : 0,
+                    "strength" : 0,
+                    "thickness" : 0
+                }
+            ],
+            "recipe" : [
+                "Choose small",
+                "Add no ice",
+                "Add syrup",
+                "Add lemonade",
+                "Add soda"
+            ]
+        },
+        {  
+            "name" : "D2",
+            "size" : "Medium",
+            "iceAmount" : "More",
+            "isMixed" : true,
+            "sweetness" : 6,
+            "strength" : 2,
+            "thickness" : 1,
+            "ingredients" : [
+                {
+                    "name" : "Syrup",
+                    "sweetness" : 2,
+                    "strength" : 0,
+                    "thickness" : 2
+                }, 
+                {
+                    "name" : "Fruit Juice",
+                    "sweetness" : 3,
+                    "strength" : 1,
+                    "thickness" : 0
+                },
+                {
+                    "name" : "Cola",
+                    "sweetness" : 1,
+                    "strength" : 1,
+                    "thickness" : -1
+                },
+                {
+                    "name" : "Soda",
+                    "sweetness" : 0,
+                    "strength" : 0,
+                    "thickness" : 0
+                }
+            ],
+            "recipe" : [
+                "Choose medium",
+                "Add more ice",
+                "Add syrup",
+                "Add fruit juice",
+                "Add cola",
+                "Add soda",
+                "Stir"
+            ]
+        },
+        {  
+            "name" : "D3",
+            "size" : "Large",
+            "iceAmount" : "Less",
+            "isMixed" : false,
+            "sweetness" : 2,
+            "strength" : 6,
+            "thickness" : -6,
+            "ingredients" : [
+                {
+                    "name" : "Fruit Juice",
+                    "sweetness" : 3,
+                    "strength" : 1,
+                    "thickness" : 0
+                },
+                {
+                    "name" : "Fruit Juice",
+                    "sweetness" : 3,
+                    "strength" : 1,
+                    "thickness" : 0
+                }, 
+                {
+                    "name" : "Lemonade",
+                    "sweetness" : -2,
+                    "strength" : 2,
+                    "thickness" : -3
+                },
+                {
+                    "name" : "Lemonade",
+                    "sweetness" : -2,
+                    "strength" : 2,
+                    "thickness" : -3
+                },
+                {
+                    "name" : "Soda",
+                    "sweetness" : 0,
+                    "strength" : 0,
+                    "thickness" : 0
+                }
+            ],
+            "recipe" : [
+                "Choose Large",
+                "Add less ice",
+                "Add fruit juice",
+                "Add fruit juice",
+                "Add lemonade",
+                "Add lemonade",
+                "Add soda"
+            ]
+        }
+    ]
+}
